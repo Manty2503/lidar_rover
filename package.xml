@@ -3,8 +3,8 @@
 <package format="3">
   <name>lidar_rover</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <description>My First Implementation of a Differential Motor Rover that too from scratch.</description>
+  <maintainer email="mantavyagupta67@gmail.com">Manatvya Gupta</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
